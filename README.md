@@ -2,16 +2,16 @@
 Java CMD program for printing the factorial of the input number with a recursive function.  
 using Java version 1.8.0  
 
-Run the program typing :  
-"javac CMD-factorial-recursive.java"  
+Run the program using :  
+"javac CMD_Factorial_Recursive.java"  
 then   
-"java CMD-factorial-recursive"   
+"java CMD_Factorial_Recursive"   
 in Windows CMD   
-while CMD is in the CMD-factorial-recursive.java directory     
+while CMD is in the CMD-factorial-recursive-Java directory     
   
 You can see the program document using :    
-"javadoc CMD-factorial-recursive.java"   
-while CMD is in the CMD-factorial-recursive.java directory    
+"javadoc CMD_Factorial_Recursive.java"   
+while CMD is in the CMD-factorial-recursive-Java directory    
   
 Feel free to contact me at:  
 @ armanazarnik@gmail.com
